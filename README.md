@@ -3,13 +3,11 @@
 # 🏠 RealEstatePro - Website Bán Bất Động Sản Tích Hợp Chatbot
 
 **Thành viên thực hiện**:
-
-* Hảo
-* Na
-* Duy
-* Việt
-* Tùng
-
+Nguyễn Thị Lê Na
+Nguyễn Ngọc Hảo
+Nguyễn Minh Duy
+Nguyễn Đăng Tùng
+Bùi Quốc Việt
 ## 📌 Mô tả dự án
 
 **RealEstatePro** là một nền tảng web hỗ trợ người dùng tìm kiếm, đăng tin và giao dịch bất động sản một cách thuận tiện và nhanh chóng. Trang web được tích hợp **chatbot thông minh** giúp hỗ trợ tư vấn tự động, trả lời thắc mắc người dùng 24/7.
